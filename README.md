@@ -1,0 +1,2 @@
+# mhtexp
+Implements the procedure detailed in List, Shaikh, and Vayalinkal and Xu (2015) And (2021) And (2023) Use mhtexp And mhtexp2 With STATA 18
