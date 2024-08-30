@@ -1,6 +1,8 @@
 # mhtexp
 Implements the procedure detailed in List, Shaikh, and Vayalinkal and Xu (2015) And (2021) And (2023) Use mhtexp And mhtexp2 With STATA 18
 
+https://www.youtube.com/watch?v=58AtQFJR86k
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
